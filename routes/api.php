@@ -14,7 +14,8 @@ use Illuminate\Http\Request;
 */
 
 Route::group([
-    'prefix' => 'auth'
+    'prefix' => 'auth',
+    'namespace' => '\App\API\Controllers'
 ], function () {
     Route::post('login', 'AuthController@login');
     Route::post('signup', 'AuthController@signup');
