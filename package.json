@@ -28,7 +28,7 @@
         "admin-lte": "3.0.0-beta.1",
         "dropify": "^0.2.2",
         "jquery-mask-plugin": "^1.14.15",
-        "jquery-validation": "^1.19.1",
+        "jquery-validation": "^1.19.3",
         "laravel-vue-pagination": "^2.1.0",
         "moment": "^2.22.2",
         "select2": "^4.0.8",
